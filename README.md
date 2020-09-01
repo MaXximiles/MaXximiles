@@ -4,12 +4,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karanalpe@gmail.com)](mailto:maxx.sbr@gmail.com)
 
 
-- Militar
-- Técnico em Redes de Computadores
-- Programador
-- Técnologo em Banco de Dados(formação)
+- Computer Network Technician;
+- Currently Military;
+- Network administrator;
+- Programmer;
+- Database Technologist (Studying)
 
 
+a
 <!--
 **MaXximiles/MaXximiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
