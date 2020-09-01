@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/maxx-barcelos-aaa106b2)
+
 <!--
 **MaXximiles/MaXximiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
