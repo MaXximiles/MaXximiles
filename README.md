@@ -4,6 +4,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maxx.sbr@gmail.com)](mailto:maxx.sbr@gmail.com)
 
 ![introduction-to-cybersecurity](https://user-images.githubusercontent.com/61763153/92508948-d1ea0f80-f1df-11ea-95ef-20538aa842c6.png)
+![networking-academy-learn-a-thon-2020 (1)](https://user-images.githubusercontent.com/61763153/94621747-423bfc00-0287-11eb-8f1f-754cb2fc69a4.png)
+
 
 - Computer Network Technician;
 - Currently Military;
