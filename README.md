@@ -6,6 +6,11 @@
 ![introduction-to-cybersecurity](https://user-images.githubusercontent.com/61763153/92508948-d1ea0f80-f1df-11ea-95ef-20538aa842c6.png)
 ![networking-academy-learn-a-thon-2020 (1)](https://user-images.githubusercontent.com/61763153/94621747-423bfc00-0287-11eb-8f1f-754cb2fc69a4.png)
 
+### GitHub Stats
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/MaXximiles)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaXximiles&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaXximiles&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 - Computer Network Technician;
 - Currently Military;
